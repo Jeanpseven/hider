@@ -21,6 +21,7 @@ Execute o seguinte comando para iniciar o Hider:
 
 _________________________________________
 node hider.js
+
 Siga as instruções exibidas no terminal para selecionar as opções desejadas e fornecer as informações solicitadas, como o diretório dos arquivos a serem criptografados ou descriptografados, e a chave de criptografia.
 
 Hider em Python
@@ -34,6 +35,7 @@ Execute o seguinte comando para iniciar o Hider:
 
 _________________________________________
 python hider.py
+
 Siga as instruções exibidas no terminal para selecionar as opções desejadas e fornecer as informações solicitadas, como o diretório dos arquivos a serem criptografados ou descriptografados, e a chave de criptografia.
 
 Hider em PHP
@@ -47,6 +49,7 @@ Execute o seguinte comando para iniciar o Hider:
 
 _________________________________________
 php hider.php
+
 Siga as instruções exibidas no terminal para selecionar as opções desejadas e fornecer as informações solicitadas, como o diretório dos arquivos a serem criptografados ou descriptografados, e a chave de criptografia.
 
 Hider em Shell
@@ -61,6 +64,6 @@ _________________________________________
 chmod +x hider.sh
 Execute o seguinte comando para iniciar o Hider:
 
-bash
-_________________________________________
+bash hider.sh
+OU
 ./hider.sh
